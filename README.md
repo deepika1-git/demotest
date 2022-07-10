@@ -1,1 +1,0 @@
-# demotest hands-on
